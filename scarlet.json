@@ -4,15 +4,7 @@
 		"repoIcon": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Cheeseburger-new:1-3-product-tile-desktop?wid=829&hei=515&dpr=off"
 	},
 	"Tweaked": [{
-		"name": "RobloxOOF",
-		"version": "2.560.362",
-		"icon": "https://static.wikia.nocookie.net/logopedia/images/d/d6/Roblox_app_icon_2022.svg/revision/latest/scale-to-width-down/250?cb=20220319140506",
-		"down": "https://github.com/ub96/PiratedShit2/releases/download/Oof/roblox.ipa",
-		"category": "Hacked Games",
-		"description": "Roblox with the oof sound",
-		"bundleID": "com.roblox.robloxmobile"
-
-}, {
+		
 		"name": "Provenance",
 		"version": "1.4",
 		"icon": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
